@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flexbox;
+    width: 100%;
+    background-color: aquamarine;
+}
+.left{
+    width: 32%;
+}
